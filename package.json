@@ -1,0 +1,12 @@
+{
+  "name": "RiotApiPlayground",
+  "description": "testing out the riot api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.4.1",
+    "request": "2.36.0",
+    "underscore": "~1.6.0",
+    "ejs": "~1.0.0"
+  }
+}
